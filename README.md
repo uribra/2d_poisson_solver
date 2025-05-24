@@ -8,15 +8,15 @@
 
 This project builds a solver **from scratch** for the Poisson equation
 
-\[
+$$
 -\Delta u = f
-\]
+$$
 
 on the rectangular domain
 
-\[
+$$
 [0, L_x] \times [0, L_y]
-\]
+$$
 
 with prescribed Dirichlet boundary data, using a finite difference discretization.
 
